@@ -19,7 +19,7 @@ const projectList = [
   {
     title: 'Desserts Ordering App - MERN',
     desc: 'React + Bootstrap frontend project with login flow.',
-    demo: 'https://blissfullbites-mern.vercel.app/home',
+    demo: 'https://blissfullbites-mern.vercel.app',
     repo: 'https://github.com/Aravindprahash/blissfullbites-mern',
     tech: ['MongoDB', 'Express.js' , 'React.js', 'Node.js' , 'oAuth', 'Javascript', 'Bootstrap']
   },
