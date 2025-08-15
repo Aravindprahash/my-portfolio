@@ -12,7 +12,7 @@ const projectList = [
   {
     title: 'Movie Ticket Booking App',
     desc: 'React + Bootstrap frontend project with login flow.',
-    demo: 'https://ticketbooking-mu.vercel.app/login',
+    demo: 'https://ticketbooking-mu.vercel.app',
     repo: 'https://github.com/Aravindprahash/ticketbooking',
     tech: ['React', 'Javascript' , 'Bootstrap', 'Routing' , 'oAuth']
   },
