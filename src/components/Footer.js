@@ -13,7 +13,7 @@ const Footer = () => {
             <a href="https://github.com/Aravindprahash" className="text-light mx-2" target="_blank" rel="noopener noreferrer">
               <FaGithub size={20} />
             </a>
-            <a href="https://www.linkedin.com/in/aravind-prahash-a-897114299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-light mx-2" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/aravind-prahash-a-897114299" className="text-light mx-2" target="_blank" rel="noopener noreferrer">
               <FaLinkedin size={20} />
             </a>
             <a href="mailto:aravindprahasha@gmail.com" className="text-light mx-2">

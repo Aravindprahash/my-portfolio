@@ -84,7 +84,7 @@ function Resume() {
         </div>
 
         <a
-          href="/resume.pdf"
+          href="/aravindprahash-a-resume.pdf"
           className="resume-button"
           target="_blank"
           rel="noreferrer"

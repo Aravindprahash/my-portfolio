@@ -71,7 +71,7 @@ function Home() {
 
           <div className="mt-4">
             <a
-              href="https://www.linkedin.com/in/aravind-prahash-a-897114299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              href="https://www.linkedin.com/in/aravind-prahash-a-897114299"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white fs-3 me-3 icon-animate"
